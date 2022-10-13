@@ -1,2 +1,2 @@
 # software-docs-tr
-Yazılım ile ilgili dokümanları Türkçeye dönüştürüyorum, desteğinizi beklerim!
+Yazılım ile ilgili dokümanları Türkçeye dönüştürüyoruz, desteğinizi bekleriz!
